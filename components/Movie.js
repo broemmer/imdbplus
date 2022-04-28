@@ -84,7 +84,7 @@ const Movie = ({ data, level }) => {
         {/* <div className={[styles.movie, styles.test].join(' ')}> */}
         <div className={styles.movie}>
           <h1 className={styles.title}>
-            {content.title}petanque
+            {content.title}#JoJoJan
           </h1>
           <div className={styles.genrelist}>
             {genres.map((item, index) => (
